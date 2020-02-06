@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+.up{
+  width: 25%;
+  height: 170px;
+  border: 2px solid black;
+  margin: 5px;
+}
+.centre{
+  width: 17.5%;
+  height: 50px;
+  border: 2px solid black;
+  margin: 5px;
+}
+.dawn{
+  width: 25%;
+  height: 170px;
+  border: 2px solid black;
+  margin: 5px;
+}
+.encode{
+  background: #fff;
+  height: 54px;
+  border: 2px solid black;
+  margin: 5px;
+}
+.decode{
+  background: #fff;
+  height: 54px;
+  border: 2px solid black;
+  margin: 5px;
+}
